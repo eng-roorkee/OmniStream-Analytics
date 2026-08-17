@@ -22,7 +22,7 @@
 
 The diagram below illustrates the end-to-end data flow for the OmniStream Analytics pipeline. Source files are ingested into an S3 bucket, staged in a Bronze layer, transformed into a Silver layer, and exposed through a dashboard for analytics consumption.
 
-![OmniStream Analytics architecture diagram](diagram.png)
+![OmniStream Analytics architecture diagram](docs/diagram.png)
 
 ## Processes 
 
